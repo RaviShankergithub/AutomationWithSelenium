@@ -1,0 +1,25 @@
+2024-09-06 17:46:58 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-09-06 22:18:00 INFO  TC002_LoginTest:15 - ***** Starting TC001_Login_Application  ****
+2024-09-06 22:18:04 INFO  TC002_LoginTest:21 - Clicked on Account Link.. 
+2024-09-06 22:18:04 INFO  TC002_LoginTest:23 - Test passed
+2024-09-06 22:18:04 INFO  TC002_LoginTest:32 - ***** Finished TC002_LoginTest *****
+2024-09-06 22:20:33 INFO  TC002_LoginTest:15 - ***** Starting TC001_Login_Application  ****
+2024-09-06 22:20:37 INFO  TC002_LoginTest:21 - Clicked on Account Link.. 
+2024-09-06 22:20:37 INFO  TC002_LoginTest:23 - Test passed
+2024-09-06 22:20:37 INFO  TC002_LoginTest:32 - ***** Finished TC002_LoginTest *****
+2024-09-06 22:38:33 INFO  TC002_LoginTest:14 - ***** Starting TC001_Login_Application  ****
+2024-09-06 22:38:40 INFO  TC002_LoginTest:20 - Clicked on Account Link.. 
+2024-09-06 22:38:40 INFO  TC002_LoginTest:22 - Test passed
+2024-09-06 22:38:40 INFO  TC002_LoginTest:31 - ***** Finished TC002_LoginTest *****
+2024-09-06 22:51:33 INFO  TC002_LoginTest:14 - ***** Starting TC001_Login_Application  ****
+2024-09-06 22:51:35 INFO  TC002_LoginTest:20 - Clicked on Account Link.. 
+2024-09-06 22:51:35 INFO  TC002_LoginTest:22 - Test passed
+2024-09-06 22:51:35 INFO  TC002_LoginTest:31 - ***** Finished TC002_LoginTest *****
+2024-09-06 22:52:49 INFO  TC002_LoginTest:14 - ***** Starting TC001_Login_Application  ****
+2024-09-06 22:52:52 INFO  TC002_LoginTest:20 - Clicked on Account Link.. 
+2024-09-06 22:52:52 INFO  TC002_LoginTest:22 - Test passed
+2024-09-06 22:52:52 INFO  TC002_LoginTest:31 - ***** Finished TC002_LoginTest *****
+2024-09-06 22:59:20 INFO  TC002_LoginTest:14 - ***** Starting TC001_Login_Application  ****
+2024-09-06 22:59:22 INFO  TC002_LoginTest:20 - Clicked on Account Link.. 
+2024-09-06 22:59:22 INFO  TC002_LoginTest:22 - Test passed
+2024-09-06 22:59:22 INFO  TC002_LoginTest:31 - ***** Finished TC002_LoginTest *****
