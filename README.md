@@ -1,4 +1,5 @@
-**Selenium Automation Framework with Java, TestNG, and Docker  **
+**Selenium Automation Framework with Java, TestNG, and Docker**
+
 **Project Overview**
 This project is an automated testing framework built using Selenium and Java 11 JRE. It employs a combination of Keyword-Driven, Data-Driven, and Hybrid frameworks, with support for Behavior Driven Development (BDD) and Test-Driven Development (TDD) methodologies. The framework leverages TestNG for test execution and reporting, while Docker is integrated for environment consistency and ease of deployment.
 
